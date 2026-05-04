@@ -1,6 +1,6 @@
 # Multiclass Movie Rating Prediction & K-Means Clustering
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/movie-rating-prediction/blob/main/Movie_Rating_Prediction_CSE422.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oodsystem/movie-rating-prediction/blob/main/Movie_Rating_Prediction_CSE422.ipynb)
 
 > **CSE422: Machine Learning Lab — BRAC University**
 > S. M. Mohiuddin Khan Shiam · Saiyed Mubasshir Mahmood
