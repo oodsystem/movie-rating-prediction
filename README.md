@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oodsystem/movie-rating-prediction/blob/main/Movie_Rating_Prediction_CSE422.ipynb)
 
 > **CSE422: Machine Learning Lab — BRAC University**
-> S. M. Mohiuddin Khan Shiam · Saiyed Mubasshir Mahmood
+> Saiyed Mubasshir Mahmood · S. M. Mohiuddin Khan Shiam
 
 ---
 
